@@ -10,3 +10,4 @@ Run `python sample_data.py` in your terminal.
 
 ## Author
 Nigus Yehenew Dagnaw
+Made for Assignment 1: git and Github
